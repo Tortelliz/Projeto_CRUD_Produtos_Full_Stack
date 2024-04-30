@@ -1,4 +1,4 @@
-//Este arquivo faz parte do "Model" do padrão MVC, usada para definir uma classe qual irá retornar diferentes tipos de mensagens baseando-se na ação escolhida pelo usuário.
+//Este arquivo faz parte do "Model" do padrão MVC, usado neste caso para definir uma classe qual irá retornar diferentes tipos de mensagens baseando-se na ação escolhida pelo usuário.
 
 package br.com.api.produtos.modelo;
 

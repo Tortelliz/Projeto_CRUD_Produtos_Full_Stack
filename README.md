@@ -32,7 +32,7 @@ Para executar este projeto em sua máquina, certifique-se de ter instalado:
 4. **Instalar dependências:**
 - Certifique-se de que o Lombok está configurado corretamente em sua IDE.
 
-6. **Executar o aplicativo:**
+5. **Executar o aplicativo:**
 - Navegue até o diretório: Projeto_CRUD_Produtos_Full_Stack\Back-end\produtos
 - Execute o aplicativo Spring Boot através da sua IDE ou usando o seguinte comando:
 

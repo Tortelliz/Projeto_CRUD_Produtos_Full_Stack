@@ -1,4 +1,4 @@
-//Este arquivo faz parte do "Control" do padrão MVC, usada para mapear quais ações os produtos sofrerão.
+//Este arquivo faz parte do "Control" do padrão MVC, usado neste caso para mapear quais ações os produtos irão sofrer.
 
 package br.com.api.produtos.controle;
 

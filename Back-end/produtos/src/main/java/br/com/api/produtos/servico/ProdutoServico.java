@@ -1,3 +1,5 @@
+//Este arquivo faz parte do "Control" do padrão MVC, usado neste caso para definir e implementar as lógicas de como as ações que os produtos irão sofrer serão executadas.
+
 package br.com.api.produtos.servico;
 
 import org.springframework.beans.factory.annotation.Autowired;

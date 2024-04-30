@@ -30,13 +30,13 @@ Para executar este projeto em sua máquina, certifique-se de ter instalado:
 - Certifique-se de que o banco de dados esteja configurado corretamente e acessível pelo back-end.
 
 4. **Instalar dependências:**
-Certifique-se de que o Lombok está configurado corretamente em sua IDE.
+- Certifique-se de que o Lombok está configurado corretamente em sua IDE.
 
 6. **Executar o aplicativo:**
 - Navegue até o diretório: Projeto_CRUD_Produtos_Full_Stack\Back-end\produtos
 - Execute o aplicativo Spring Boot através da sua IDE ou usando o seguinte comando:
 
-- ./mvnw spring-boot:run
+./mvnw spring-boot:run
 
 O back-end estará disponível em `http://localhost:8080`.
 
@@ -45,15 +45,15 @@ O back-end estará disponível em `http://localhost:8080`.
 ## Configuração do Front-end
 
 1. **Instalar dependências:**
-Navegue até a pasta `Front-end` e execute o seguinte comando para instalar as dependências do Node.js:
+- Navegue até o diretório: Projeto_CRUD_Produtos_Full_Stack\Front-end
+- Execute o seguinte comando para instalar as dependências do Node.js:
 
-- npm install
+npm install
 
 2. **Executar o aplicativo:**
-- Navegue até o diretório: Projeto_CRUD_Produtos_Full_Stack\Front-end
 - Inicie o servidor de desenvolvimento do React com o seguinte comando:
 
-- npm start
+npm start
 
 O front-end estará disponível em `http://localhost:3000`.
 

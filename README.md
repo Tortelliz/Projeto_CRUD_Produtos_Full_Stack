@@ -59,6 +59,8 @@ O front-end estará disponível em `http://localhost:3000`.
 
 ---
 
-Com estas instruções, o projeto estará pronto para ser executado em sua própria máquina. Se precisar de mais ajuda, me coloco inteiramente à disposição no que for necessário. Divirta-se desenvolvendo! 🚀
+Com estas instruções, o projeto certamente estará funcionando em sua própria máquina. Se precisar de mais ajuda, me coloco inteiramente à disposição no que for necessário.
+Sinta-se a vontade para implementar quaisquer tipos de melhorias e aprimoramentos ao projeto.
+Divirta-se desenvolvendo! 🚀
 
 Saudações, Tortelliz!

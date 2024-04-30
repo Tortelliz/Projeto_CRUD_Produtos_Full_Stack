@@ -32,10 +32,11 @@ Para executar este projeto em sua máquina, certifique-se de ter instalado:
 4. **Instalar dependências:**
 Certifique-se de que o Lombok está configurado corretamente em sua IDE.
 
-5. **Executar o aplicativo:**
-Execute o aplicativo Spring Boot através da sua IDE ou usando o seguinte comando:
+6. **Executar o aplicativo:**
+- Navegue até o diretório: Projeto_CRUD_Produtos_Full_Stack\Back-end\produtos
+- Execute o aplicativo Spring Boot através da sua IDE ou usando o seguinte comando:
 
-- mvn spring-boot:run
+- ./mvnw spring-boot:run
 
 O back-end estará disponível em `http://localhost:8080`.
 
@@ -49,7 +50,8 @@ Navegue até a pasta `Front-end` e execute o seguinte comando para instalar as d
 - npm install
 
 2. **Executar o aplicativo:**
-Inicie o servidor de desenvolvimento do React com o seguinte comando:
+- Navegue até o diretório: Projeto_CRUD_Produtos_Full_Stack\Front-end
+- Inicie o servidor de desenvolvimento do React com o seguinte comando:
 
 - npm start
 

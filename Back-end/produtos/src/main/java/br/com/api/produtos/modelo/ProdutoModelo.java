@@ -1,4 +1,4 @@
-//Este arquivo faz parte do "Model" do padrão MVC, usada para definir os atributos do produto, seus tipos de dados e regras se aplicável.
+//Este arquivo faz parte do "Model" do padrão MVC, usado neste caso para definir os atributos do produto, seus tipos de dados e regras se aplicável.
 
 package br.com.api.produtos.modelo;
 
